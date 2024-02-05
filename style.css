@@ -1,0 +1,25 @@
+ img {
+     width: 400px;
+     height: 400px;
+    /* box-shadow: 5.7px 11.4px 11.4px hsla(174, 100%, 48%, 0.867); */
+    
+            box-shadow: 0 0 10px 5px gold;
+            /* Here, the '10px' and '5px' values determine the blur radius and spread of the shadow */
+        
+ }
+
+ button {
+     display: block;
+     margin-left: 45%;
+     margin-top: 1rem;
+ }
+
+ body {
+     text-align: center;
+     background-image: url("./OIP.jpg");
+     background-repeat:initial;
+ }
+
+ h1{
+    color: aliceblue;
+ }
